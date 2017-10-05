@@ -16,7 +16,7 @@ namespace MegaDesk_3_McNeilJeanLouis
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainMenuView());
         }
     }
 }
